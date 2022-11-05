@@ -1,0 +1,25 @@
+{
+  "name": "pug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dima92/pug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dima92/pug/issues"
+  },
+  "homepage": "https://github.com/dima92/pug#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0",
+    "pug": "^3.0.2"
+  }
+}
